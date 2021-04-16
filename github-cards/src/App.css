@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 3rem;
+}
