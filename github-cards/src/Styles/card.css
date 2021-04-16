@@ -1,0 +1,20 @@
+.github-profile {
+  margin: 1rem;
+  display: flex;
+}
+.info {
+  display: flex;
+  margin-left: 12px;
+  align-items: top;
+  justify-content: top;
+  flex-direction: column;
+}
+.name {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.avatar {
+  height: 200px;
+  width: auto;
+}
